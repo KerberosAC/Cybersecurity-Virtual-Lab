@@ -1,4 +1,4 @@
-# Cybersecurity Virtual Lab | Multi-VM Infrastructure & Security Testing
+# Cybersecurity Virtual Lab Summary| Multi-VM Infrastructure & Security Testing
 
 [![VirtualBox](https://img.shields.io/badge/Oracle_VirtualBox-183A61?logo=virtualbox&logoColor=white)](https://www.virtualbox.org/)
 [![Vagrant](https://img.shields.io/badge/Vagrant-1868F2?logo=vagrant&logoColor=white)](https://developer.hashicorp.com/vagrant)
