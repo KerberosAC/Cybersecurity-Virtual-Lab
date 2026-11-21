@@ -7,9 +7,8 @@
 [![Wazuh](https://img.shields.io/badge/Wazuh-Security_Monitoring-0066A1)](https://wazuh.com/)
 [![pfSense](https://img.shields.io/badge/pfSense-Firewall-183A61)](https://www.pfsense.org/)
 
-**Author:** Alexander Cox  
-**Project type:** Personal cybersecurity home lab  
-**Primary source:** `Cyber Home Lab Doc 1.docx` (screenshots extracted from the original lab documentation)
+
+**Project type:** Personal cybersecurity Home Lab Summary  
 
 ## Overview
 
