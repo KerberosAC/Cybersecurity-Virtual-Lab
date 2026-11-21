@@ -27,7 +27,7 @@ The source document captures **multiple lab exercises and configuration stages**
 - Extend the lab into defensive experiments using Snort, pfSense, Windows Server/Active Directory, Nessus, Wazuh, and Action1.
 - Preserve configuration and results as repeatable evidence for a cybersecurity portfolio.
 
-## Lab layout (plain text) — network connections and IP addresses
+## Lab layout (plain text) - network connections and IP addresses
 
 The topology below uses **addresses shown in the original Cyber Home Lab document**, including VM console output, VirtualBox configuration screenshots, the pfSense console, and Wazuh endpoint inventory. It groups systems by documented lab **exercise** rather than claiming all interfaces were connected simultaneously.
 
